@@ -27,8 +27,8 @@ This project analyzes sales performance across regions, products, customer types
 
 ![Dashboard Preview](dashboard_overview.png)
 
-### 📊 Business Insights
--- Returning customers contribute 52.98% of total sales.
--- August recorded peak sales.
--- Tablet has highest unit price but lower sales volume.
--- Online channel dominates East & South regions.
+###  Business Insights
+- Returning customers contribute 52.98% of total sales.
+- August recorded peak sales.
+- Tablet has highest unit price but lower sales volume.
+- Online channel dominates East & South regions.
