@@ -25,8 +25,7 @@ Average Order Value: ₹10.65K
 
 ## Dashboard Preview
 
-(Add screenshot here)
-
+![Dashboard Preview] dashboard_overview.png
 
 ### 📊 Business Insights
 - Returning customers contribute 52.98% of total sales.
